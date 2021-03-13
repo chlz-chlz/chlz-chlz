@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello, im Alexey Kirillov 👋
 
+I'm web developer
+
+### My tech stack
+* php
+* javascript
+* react
+* html
+* css
+* sql
+* laravel
 <!--
 **chlz-chlz/chlz-chlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
