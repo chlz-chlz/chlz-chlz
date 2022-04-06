@@ -1,6 +1,6 @@
 ### Hello, im Alexey Kirillov 👋
 
-I'm web developer
+I'm software engineer
 
 ### My tech stack
 * php 8.1
