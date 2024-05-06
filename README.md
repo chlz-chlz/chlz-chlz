@@ -3,8 +3,9 @@
 I'm software engineer
 
 ### My tech stack
-* php 8.2
+* php
 * laravel
 * symfony
 * mysql/postgresql
 * rabbitmq/kafka
+* docker
