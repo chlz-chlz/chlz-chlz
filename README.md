@@ -9,3 +9,4 @@ I'm software engineer
 * mysql/postgresql
 * rabbitmq/kafka
 * docker
+* golang
